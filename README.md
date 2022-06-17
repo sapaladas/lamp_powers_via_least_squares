@@ -36,7 +36,6 @@
 - As an example, we will use $n=10$ lamps, the area being an $25\times25$ grid with $m=625$ pixels, each $1m^{2}$
 - The $(x,y)$ positions of lamps and their heigh above floor are given
 - In addition, we will create two graphs to show the illumination of the two patterns
-- The first with all lamps set to $1$ and the other that minimize the sum square deviation with a desired uniform illumination
 - We will, also, calculate the RMSE in both cases
 - Finally, we will create the histogram of patch illumination values for both cases
 
