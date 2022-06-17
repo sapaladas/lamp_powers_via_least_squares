@@ -41,7 +41,7 @@
 
 ## *Resources*
 
-- Packages: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy`, `math`, `sklearn`
+- Packages: `numpy`, `pandas`, `matplotlib`, `seaborn`, `scipy`, `sklearn`
 - Software: Jupyter Notebook
 
 ## *Results*
